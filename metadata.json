@@ -1,0 +1,8 @@
+{
+  "name": "VoxelCraft Online: 3D Multiplayer Sandbox",
+  "description": "Real-time 3D multiplayer voxel sandbox game with world rooms, block building, physics, day-night cycle, and live chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
